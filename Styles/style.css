@@ -42,7 +42,7 @@ a {
 /* Logo Size */
 .logo {
     width: 100px;  
-    height: auto !important;
+    height: 100% !important;
 }
 
 .header-text {

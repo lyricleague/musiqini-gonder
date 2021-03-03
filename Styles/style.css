@@ -42,6 +42,7 @@ a {
 /* Logo Size */
 .logo {
     width: 100px;  
+    height: auto;
 }
 
 .header-text {

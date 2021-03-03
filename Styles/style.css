@@ -128,6 +128,6 @@ a {
         font-size: 3rem;
     }
     .logo-cont {
-        margin-top: -20px;
+        top: 10px;
     }
 }

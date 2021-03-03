@@ -126,14 +126,13 @@ a {
     }
     .header-text {
         font-size: 3rem;
-        margin-top: 2rem;
+        margin-top: 1.5rem;
     }
     .logo-cont {
         top: 10px;
     }
     
     body {
-        margin: 3rem auto;
-        color: black;
+        margin: 2.5rem auto;
     }
 }
